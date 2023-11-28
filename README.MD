@@ -35,7 +35,7 @@ baseado no conjunto `actionPerformed` original.
 
 ## 6. 🟣Criação de Objetos:
 
--Criamos o método "Generate" para carregar imagens e adicionar objetos ao gerenciador.
+-Criamos o método `Generate` para carregar imagens e adicionar objetos ao gerenciador.
 refatorando diretamente no método `initJogo`.
 
 
